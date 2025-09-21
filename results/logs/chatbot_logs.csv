@@ -1,0 +1,194 @@
+session_id,timestamp,user_input,emotions,distress,empathetic_reply,session_start,session_end,session_duration
+bbe2d149-6ca0-4742-a9ba-e59502554de6,2025-09-11T18:04:58.393468,hello,"[[""neutral"", 0.9615991115570068]]","[[""Normal"", 0.8664751052856445]]","I’m here with you 🤝
+It’s wonderful to be in a good place 🌟",,,
+bbe2d149-6ca0-4742-a9ba-e59502554de6,2025-09-11T18:05:10.519930,how are you?,"[[""curiosity"", 0.8954654932022095], [""neutral"", 0.6731707453727722]]","[[""Normal"", 0.9284160733222961]]","Exploring new ideas is wonderful ✨
+It’s wonderful to be in a good place 🌟",,,
+bbe2d149-6ca0-4742-a9ba-e59502554de6,2025-09-11T18:05:59.441620,i am feeling very happy to talk with you,"[[""joy"", 0.9862307906150818]]","[[""Normal"", 0.9325520396232605]]","Keep shining with your happiness ✨
+It’s wonderful to be in a good place 🌟",,,
+bbe2d149-6ca0-4742-a9ba-e59502554de6,2025-09-11T18:06:15.923364,"I’m happy for them, but I feel lonely inside","[[""sadness"", 0.9197692275047302], [""joy"", 0.8993453979492188], [""disappointment"", 0.21028195321559906]]","[[""Normal"", 0.7377713918685913]]","It’s okay to feel down, I’m here 🤗
+It’s wonderful to be in a good place 🌟",,,
+bbe2d149-6ca0-4742-a9ba-e59502554de6,2025-09-11T18:06:30.239731,That was totally unexpected,"[[""surprise"", 0.9400469660758972]]","[[""Normal"", 0.9278352856636047]]","I didn’t see that coming either 😮
+I’m glad you’re feeling stable 💚",,,
+bbe2d149-6ca0-4742-a9ba-e59502554de6,2025-09-11T18:06:51.817191,"I’m nervous about the interview, but also excited","[[""excitement"", 0.4904235899448395], [""fear"", 0.4574703872203827], [""nervousness"", 0.3968445062637329]]","[[""Anxiety"", 0.7942650318145752]]","That’s so exciting! 🎉
+I’m here with you 💙",,,
+bbe2d149-6ca0-4742-a9ba-e59502554de6,2025-09-11T18:07:36.508890,I feel grateful but anxious about the future,"[[""gratitude"", 0.8419249057769775], [""fear"", 0.5284956097602844], [""nervousness"", 0.3264769911766052]]","[[""Anxiety"", 0.9002981185913086]]","Gratitude is such a beautiful feeling 🌸
+Your feelings matter ❤️",,,
+bbe2d149-6ca0-4742-a9ba-e59502554de6,,,,,,2025-09-11T18:04:54.639042,2025-09-11T18:08:17.815944,0:03:23.176902
+3d157947-2955-4f9e-a18c-f5026427cf99,2025-09-12T00:10:39.999553,I feel like nothing is working out in my life. ,"[[""disappointment"", 0.8222987055778503], [""neutral"", 0.49588823318481445], [""sadness"", 0.4815642237663269], [""realization"", 0.28783467411994934], [""annoyance"", 0.25493061542510986]]","[[""Depression"", 0.7207769751548767]]","Your feelings are valid, better days will come 🌤
+Thank you for opening up 🙏",,,
+3d157947-2955-4f9e-a18c-f5026427cf99,2025-09-12T00:11:38.029978,I just got my dream job today!  ,"[[""excitement"", 0.9046146273612976], [""joy"", 0.5413563847541809], [""optimism"", 0.30498063564300537], [""approval"", 0.25508978962898254]]","[[""Normal"", 0.8705470561981201]]","It’s amazing to look forward to things ✨
+Keep taking care of yourself 🌈",,,
+3d157947-2955-4f9e-a18c-f5026427cf99,2025-09-12T00:12:12.267393,I can’t believe they betrayed me like that.  ,"[[""surprise"", 0.9050090909004211], [""disappointment"", 0.5256868600845337], [""disapproval"", 0.47456681728363037], [""annoyance"", 0.3268687427043915]]","[[""Normal"", 0.3822227120399475]]","Life is full of unexpected moments ✨
+It’s wonderful to be in a good place 🌟",,,
+3d157947-2955-4f9e-a18c-f5026427cf99,2025-09-12T00:12:46.901751,"I’m so nervous about tomorrow’s exam, I can’t even sleep.  ","[[""nervousness"", 0.7107049226760864], [""fear"", 0.6876707077026367]]","[[""Anxiety"", 0.377163290977478]]","Take a deep breath, you’ve got this 💪
+Thank you for opening up 🙏",,,
+3d157947-2955-4f9e-a18c-f5026427cf99,2025-09-12T00:13:09.538484,I feel like no one really understands me.,"[[""disappointment"", 0.7945945858955383], [""sadness"", 0.5445165038108826], [""annoyance"", 0.4685409963130951], [""confusion"", 0.45960715413093567], [""realization"", 0.23509645462036133]]","[[""Normal"", 0.31511762738227844]]","I’m sorry you’re feeling disappointed 💙
+It’s wonderful to be in a good place 🌟",,,
+3d157947-2955-4f9e-a18c-f5026427cf99,2025-09-12T00:13:35.203155,"Finally, the results are out and I passed!","[[""excitement"", 0.6109837889671326], [""approval"", 0.5868678092956543], [""joy"", 0.49780985713005066], [""relief"", 0.393938273191452], [""neutral"", 0.37494096159935]]","[[""Normal"", 0.7986422777175903]]","I can feel your energy 🌟
+I’m glad you’re feeling stable 💚",,,
+3d157947-2955-4f9e-a18c-f5026427cf99,2025-09-12T00:14:02.214416,"Sometimes I feel like ending everything, I don’t see a way out.","[[""disappointment"", 0.7367383241653442], [""sadness"", 0.600705623626709], [""neutral"", 0.48998209834098816], [""realization"", 0.4175892472267151], [""annoyance"", 0.31984472274780273]]","[[""Depression"", 0.545924961566925]]","It’s tough when things don’t work out 😔
+I’m here with you 💙",,,
+3d157947-2955-4f9e-a18c-f5026427cf99,2025-09-12T00:14:29.842211,"I had a normal day, just went to work and came back.","[[""neutral"", 0.8741281032562256], [""approval"", 0.6810622215270996], [""realization"", 0.2068282663822174]]","[[""Normal"", 0.6384621262550354]]","Thank you for sharing your feelings 🙏
+It’s wonderful to be in a good place 🌟",,,
+3d157947-2955-4f9e-a18c-f5026427cf99,2025-09-12T00:15:25.156431,I swing between extreme highs and crushing lows.,"[[""neutral"", 0.9098806977272034], [""approval"", 0.3312373459339142]]","[[""Bipolar"", 0.561260461807251]]","I hear you 💙
+Your feelings matter ❤️",,,
+3d157947-2955-4f9e-a18c-f5026427cf99,2025-09-12T00:15:43.868147,Life is pointless and I don't want to continue.,"[[""disapproval"", 0.8472636342048645], [""annoyance"", 0.37655285000801086], [""disappointment"", 0.2823980748653412]]","[[""Depression"", 0.4990614354610443], [""Suicidal"", 0.49945521354675293]]","It’s valid to disagree 🤝
+Thank you for opening up 🙏",,,
+3d157947-2955-4f9e-a18c-f5026427cf99,2025-09-12T00:16:15.610386,"Sometimes I'm very energetic and talk too much, then crash.","[[""neutral"", 0.6234604716300964], [""disappointment"", 0.45239388942718506], [""approval"", 0.43829217553138733], [""nervousness"", 0.36787280440330505], [""realization"", 0.3501375913619995]]","[[""Bipolar"", 0.3358054459095001]]","I’m here with you 🤝
+Thank you for opening up 🙏",,,
+3d157947-2955-4f9e-a18c-f5026427cf99,2025-09-12T00:16:28.064472,I feel mostly fine but worried before presentations.,"[[""nervousness"", 0.784881591796875], [""fear"", 0.6630374789237976], [""approval"", 0.2611376643180847], [""disappointment"", 0.2556009292602539]]","[[""Anxiety"", 0.8966066837310791]]","It’s okay to feel nervous before challenges 🌱
+Your feelings matter ❤️",,,
+3d157947-2955-4f9e-a18c-f5026427cf99,2025-09-12T00:16:46.715022,I swing between extreme highs and crushing lows.,"[[""neutral"", 0.9098806977272034], [""approval"", 0.3312373459339142]]","[[""Bipolar"", 0.561260461807251]]","I’m here with you 🤝
+Your feelings matter ❤️",,,
+3d157947-2955-4f9e-a18c-f5026427cf99,2025-09-12T00:17:00.213933,"I can’t get out of bed, I just want to sleep all day.","[[""desire"", 0.8000652194023132], [""neutral"", 0.3696802854537964], [""disappointment"", 0.3681716322898865], [""disapproval"", 0.340778112411499]]","[[""Depression"", 0.4594849944114685]]","That sounds like something you really want 💭
+Thank you for opening up 🙏",,,
+3d157947-2955-4f9e-a18c-f5026427cf99,2025-09-12T00:17:00.328871,,"[[""neutral"", 0.9665207862854004]]","[[""Normal"", 0.4851212501525879]]","I hear you 💙
+Keep taking care of yourself 🌈",,,
+3d157947-2955-4f9e-a18c-f5026427cf99,2025-09-12T00:17:42.320370,"I feel so worthless, I don’t think I should keep going.","[[""sadness"", 0.8682705760002136], [""disappointment"", 0.6153074502944946], [""disapproval"", 0.6129587888717651], [""annoyance"", 0.2502882480621338]]","[[""Depression"", 0.46777138113975525], [""Suicidal"", 0.49421635270118713]]","It’s okay to feel down, I’m here 🤗
+Thank you for opening up 🙏",,,
+3d157947-2955-4f9e-a18c-f5026427cf99,2025-09-12T00:17:52.305095,"I can’t sleep because my thoughts won’t stop, and everything feels meaningless","[[""sadness"", 0.7102257609367371], [""disappointment"", 0.6788753271102905], [""disapproval"", 0.6521674394607544], [""annoyance"", 0.34467753767967224]]","[[""Depression"", 0.6326531171798706]]","Brighter days will come 🌈
+Your feelings matter ❤️",,,
+3d157947-2955-4f9e-a18c-f5026427cf99,,,,,,2025-09-12T00:07:16.928341,2025-09-12T00:18:38.325346,0:11:21.397005
+b28f8260-db2a-4390-a439-43e393038c5e,2025-09-16T09:53:26.244660,hello,"[[""neutral"", 0.9615991115570068]]","[[""Normal"", 0.8664751052856445]]","I’m here with you 🤝
+I’m glad you’re feeling stable 💚",,,
+81ab28ad-b8cc-41ca-b7f4-c426cd3eb060,2025-09-16T09:54:00.657269,i am feeling very low today,"[[""sadness"", 0.9834901094436646]]","[[""Depression"", 0.7648776769638062]]","I’m really sorry you’re feeling sad 💙
+Your feelings matter ❤️",,,
+f0df49b0-547a-4196-811c-df11f4757f62,2025-09-16T09:54:57.077902,i am feeling alone,"[[""sadness"", 0.9809216856956482]]","[[""Depression"", 0.623992919921875]]","I’m really sorry you’re feeling sad 💙
+I’m here with you 💙",,,
+537e7206-707a-46e0-8979-01f46c8b0c8a,2025-09-16T09:55:15.503289,love you so much,"[[""love"", 0.9746347069740295]]","[[""Normal"", 0.9254867434501648]]","That’s heartwarming 🌹
+Keep taking care of yourself 🌈",,,
+9562cbcf-861a-4b4b-ac21-f144759f1dd9,2025-09-16T10:19:12.278289,hello,"[[""neutral"", 0.9615991115570068]]","[[""Normal"", 0.8664751052856445]]","I hear you 💙
+I’m glad you’re feeling stable 💚",,,
+67755aac-49d8-4557-9e5b-973b362e9ca3,2025-09-16T10:19:19.144750,hi buddy,"[[""neutral"", 0.8401020765304565]]","[[""Normal"", 0.9209051728248596]]","I hear you 💙
+Keep taking care of yourself 🌈",,,
+251588dc-879b-48ef-ad27-1b0c3e91fab6,2025-09-16T10:24:17.143613,hello,"[[""neutral"", 0.9615991115570068]]","[[""Normal"", 0.8664751052856445]]","I hear you 💙
+It’s wonderful to be in a good place 🌟",,,
+0c02f7ed-2387-4c26-a26d-3ab3d968ad98,2025-09-16T10:25:12.248579,bye,"[[""neutral"", 0.9131028056144714]]","[[""Normal"", 0.7455086708068848]]","I hear you 💙
+I’m glad you’re feeling stable 💚",,,
+82d502eb-0681-43bf-b726-315d0579e761,2025-09-16T10:25:16.420760,exit,"[[""neutral"", 0.9538442492485046]]","[[""Depression"", 0.44447827339172363]]","I hear you 💙
+Your feelings matter ❤️",,,
+960907e7-ee7c-4185-aca4-b7a915d353ec,2025-09-16T10:25:20.837335,quit,"[[""neutral"", 0.927447497844696]]","[[""Normal"", 0.6696332693099976]]","I’m here with you 🤝
+Keep taking care of yourself 🌈",,,
+62c8a85a-6ac2-48d6-919e-ddc74f144a44,2025-09-16T10:29:05.523199,hello,"[[""neutral"", 0.9615991115570068]]","[[""Normal"", 0.8664751052856445]]","I’m here with you 🤝
+It’s wonderful to be in a good place 🌟",,,
+b38f2498-7882-4d09-a767-aa44c05ad544,2025-09-16T10:29:13.484592,my name is Rijwith,"[[""neutral"", 0.9728788733482361], [""approval"", 0.25720369815826416]]","[[""Normal"", 0.8894875645637512]]","I’m here with you 🤝
+Keep taking care of yourself 🌈",,,
+159a7fc6-9652-4599-8d03-a153c47d621f,2025-09-16T10:29:20.107815,how are you?,"[[""curiosity"", 0.8954654932022095], [""neutral"", 0.6731707453727722]]","[[""Normal"", 0.9284160733222961]]","I love your curiosity 🌟
+Keep taking care of yourself 🌈",,,
+694cb1b5-8b23-4372-9c00-7827b92226d6,2025-09-16T10:29:29.616699,i am very happy today,"[[""joy"", 0.9916679859161377]]","[[""Normal"", 0.8778542876243591]]","I’m glad you’re feeling joyful today 💛
+It’s wonderful to be in a good place 🌟",,,
+1acbc279-fa1f-4124-b283-2238ffae3d99,2025-09-16T10:29:37.914793,i am not happy today,"[[""sadness"", 0.8807441592216492]]","[[""Normal"", 0.8074998259544373]]","I’m really sorry you’re feeling sad 💙
+Keep taking care of yourself 🌈",,,
+cd93c82a-3d22-435a-bf73-97b0fb613de1,2025-09-16T10:29:52.448688,i feel like hungry,"[[""anger"", 0.18997856974601746]]","[[""Normal"", 0.9292505979537964]]","Take a deep breath, I’m here with you 🤗
+Keep taking care of yourself 🌈",,,
+ff4ddb54-338f-4e69-b352-64cd7c858ad6,2025-09-16T10:30:06.065958,i am starving,"[[""sadness"", 0.9229058623313904], [""disappointment"", 0.3237774074077606], [""nervousness"", 0.15840014815330505]]","[[""Normal"", 0.9098061919212341]]","It’s okay to feel down, I’m here 🤗
+Keep taking care of yourself 🌈",,,
+d051acc4-d33d-4c08-9ab5-b936b7dadef6,2025-09-16T10:33:04.985146,hello,"[[""neutral"", 0.9615991115570068]]","[[""Normal"", 0.8664751052856445]]","I’m here with you 🤝
+It’s wonderful to be in a good place 🌟",,,
+297d9641-55ab-4790-b47e-b53744cc16a3,2025-09-16T10:33:37.254582,"I feel like I can’t handle life, and my chest is always tight with worry.","[[""nervousness"", 0.8176387548446655], [""fear"", 0.6799182295799255], [""sadness"", 0.6353676915168762], [""disappointment"", 0.520920991897583]]","[[""Anxiety"", 0.5594664812088013]]","Take a deep breath, you’ve got this 💪
+Your feelings matter ❤️",,,
+10bce8cb-2f84-429f-9dc6-9b77529d6051,2025-09-16T10:33:55.118049,"I can’t sleep because my thoughts won’t stop, and everything feels meaningless.","[[""sadness"", 0.6810252070426941], [""disappointment"", 0.676265299320221], [""disapproval"", 0.6382152438163757], [""annoyance"", 0.36768001317977905]]","[[""Depression"", 0.516814112663269]]","It’s okay to feel down, I’m here 🤗
+Your feelings matter ❤️",,,
+d15d8dee-5233-4787-ad31-f0adfe15c35f,2025-09-16T10:34:10.500059,"I feel so worthless, I don’t think I should keep going.","[[""sadness"", 0.8682705760002136], [""disappointment"", 0.6153074502944946], [""disapproval"", 0.6129587888717651], [""annoyance"", 0.2502882480621338]]","[[""Depression"", 0.46777138113975525], [""Suicidal"", 0.49421635270118713]]","I’m really sorry you’re feeling sad 💙
+Your feelings matter ❤️",,,
+e9af5db7-2771-4b65-a54c-9042a6296093,2025-09-16T10:34:31.565251,"Every day hurts, and sometimes I wish it would all just end.","[[""sadness"", 0.8518880605697632], [""desire"", 0.730620801448822], [""disappointment"", 0.6340647339820862], [""optimism"", 0.4723324775695801]]","[[""Depression"", 0.4316655397415161], [""Suicidal"", 0.5098035335540771]]","It’s okay to feel down, I’m here 🤗
+I’m here with you 💙",,,
+a36d96e6-ef2e-4ccf-8dab-99e2e6e3d26c,2025-09-16T10:48:20.264839,hi!,"[[""neutral"", 0.9040414690971375]]","[[""Normal"", 0.9088038206100464]]","I hear you 💙
+I’m glad you’re feeling stable 💚",,,
+4035c132-aace-41b5-b1c8-1a86fec1ab2c,2025-09-16T10:49:25.112359,"""I just got a promotion at work! Feeling amazing today 😊""","[[""admiration"", 0.8262422680854797], [""excitement"", 0.7959957718849182], [""joy"", 0.7872267365455627]]","[[""Normal"", 0.8898702263832092]]","That’s inspiring to hear 🌟
+It’s wonderful to be in a good place 🌟",,,
+11eb0769-dd22-499f-b269-59f031dfafa0,2025-09-16T10:49:50.743126,"""I had so much fun at the party last night!""","[[""joy"", 0.9298150539398193], [""amusement"", 0.77484530210495], [""excitement"", 0.4590000510215759]]","[[""Normal"", 0.9122825860977173]]","Keep shining with your happiness ✨
+It’s wonderful to be in a good place 🌟",,,
+5db4dba8-0694-4e29-9c40-bbc38588bf7b,2025-09-16T10:50:12.922505,"""I finally finished my project and it went well!""","[[""joy"", 0.730427086353302], [""admiration"", 0.49590739607810974], [""approval"", 0.4949006736278534], [""pride"", 0.41033557057380676], [""excitement"", 0.3687853217124939]]","[[""Normal"", 0.9189355373382568]]","I’m glad you’re feeling joyful today 💛
+It’s wonderful to be in a good place 🌟",,,
+f9556361-2e05-4774-bc72-047ca13dbf28,2025-09-16T10:50:33.335215,"""I feel so lonely and no one seems to care.""","[[""sadness"", 0.9852015376091003], [""disappointment"", 0.5837377905845642]]","[[""Depression"", 0.5399077534675598]]","Brighter days will come 🌈
+Thank you for opening up 🙏",,,
+763441a0-a93d-410b-9c08-2884a49bc477,2025-09-16T10:50:54.681634,"""I don’t think I can handle this anymore.""","[[""disapproval"", 0.8147872686386108], [""sadness"", 0.5720887184143066], [""disappointment"", 0.45191654562950134]]","[[""Suicidal"", 0.5234774351119995]]","I understand your disapproval 😕
+Thank you for opening up 🙏",,,
+486b8692-a021-4963-bed9-99a02a1e01aa,2025-09-16T10:51:29.436417,"""Everything feels heavy and I just want to stay in bed.""","[[""desire"", 0.848065197467804], [""sadness"", 0.6127186417579651], [""neutral"", 0.5147730708122253], [""disappointment"", 0.3866429328918457]]","[[""Normal"", 0.7196476459503174]]","Desires give us direction 💡
+It’s wonderful to be in a good place 🌟",,,
+a7172a6a-00fa-4483-ac40-46ea484cd811,2025-09-16T10:55:37.233436,"""I am reading a book right now.""","[[""neutral"", 0.9281517863273621], [""approval"", 0.36188656091690063], [""excitement"", 0.28637248277664185]]","[[""Normal"", 0.9182848334312439]]","Thank you for sharing your feelings 🙏
+I’m glad you’re feeling stable 💚",,,
+a657c6dc-cf1d-42fc-843d-22c5ea85f3cc,2025-09-16T10:56:06.454248,"""I have a presentation tomorrow and I’m so nervous.""","[[""nervousness"", 0.6886352300643921], [""fear"", 0.5844287872314453]]","[[""Anxiety"", 0.5740989446640015]]","It’s okay to feel nervous before challenges 🌱
+I’m here with you 💙",,,
+52dd8a01-df24-42e4-98ed-01b15a50be78,2025-09-16T10:56:18.093633,"""I can’t stop worrying about what might happen.""","[[""fear"", 0.8869730830192566], [""nervousness"", 0.8549954295158386], [""disappointment"", 0.3745359778404236]]","[[""Anxiety"", 0.5798220634460449]]","You’re safe here, I’m with you 🤍
+Your feelings matter ❤️",,,
+33787f86-5b8e-4202-ab0c-65645065a129,2025-09-16T10:56:33.947710,"""My heart is racing and I feel on edge all the time.""","[[""nervousness"", 0.6367738246917725], [""neutral"", 0.5230175256729126], [""fear"", 0.5196651816368103]]","[[""Anxiety"", 0.31995922327041626]]","It’s okay to feel nervous before challenges 🌱
+Thank you for opening up 🙏",,,
+672b0f29-4bf7-4d68-9c4f-e71be0294a7a,2025-09-16T10:56:50.505198,"""I can’t believe they canceled my favorite show!""","[[""surprise"", 0.9666505455970764], [""disappointment"", 0.44213783740997314], [""disapproval"", 0.4043504595756531], [""excitement"", 0.35481569170951843]]","[[""Normal"", 0.9154595732688904]]","Oh wow, that’s surprising! 😲
+It’s wonderful to be in a good place 🌟",,,
+67064f5b-5cfb-4a6d-91cd-c21fdcd9017f,2025-09-16T10:57:08.629872,"""Why does everything have to go wrong today?!""","[[""curiosity"", 0.8416714072227478], [""confusion"", 0.6379289627075195], [""neutral"", 0.442831426858902], [""annoyance"", 0.3337796628475189], [""disappointment"", 0.24382942914962769]]","[[""Normal"", 0.8132485151290894]]","Exploring new ideas is wonderful ✨
+Keep taking care of yourself 🌈",,,
+26175ce9-7aaf-456b-a9c6-bef992978396,2025-09-16T10:57:23.581532,"""I’m so mad at my friend for lying to me.""","[[""anger"", 0.9235208034515381], [""annoyance"", 0.6545692086219788], [""disappointment"", 0.3710581660270691]]","[[""Normal"", 0.9182872176170349]]","It’s okay to feel angry sometimes ❤️
+I’m glad you’re feeling stable 💚",,,
+4b131215-1e45-49d7-b159-4ee60b7ddaf8,2025-09-16T10:57:37.664719,"""I feel so lonely and no one seems to care.""","[[""sadness"", 0.9852015376091003], [""disappointment"", 0.5837377905845642]]","[[""Depression"", 0.5399077534675598]]","I’m really sorry you’re feeling sad 💙
+Your feelings matter ❤️",,,
+f0ae262a-9eb9-4797-85de-bf63f689f5a2,2025-09-16T10:57:49.777543,"""I don’t think I can handle this anymore.""","[[""disapproval"", 0.8147872686386108], [""sadness"", 0.5720887184143066], [""disappointment"", 0.45191654562950134]]","[[""Suicidal"", 0.5234774351119995]]","I understand your disapproval 😕
+I’m here with you 💙",,,
+fe1d3b9e-3366-49f5-959a-b0de13133054,2025-09-16T16:06:20.225063,hi,"[[""neutral"", 0.9388443231582642]]","[[""Normal"", 0.9141526222229004]]","I’m here with you 🤝
+It’s wonderful to be in a good place 🌟",,,
+d011dc0b-b980-4f4c-a251-3f50144b42df,2025-09-16T16:06:28.220377,how are you?,"[[""curiosity"", 0.8954654932022095], [""neutral"", 0.6731707453727722]]","[[""Normal"", 0.9284160733222961]]","I love your curiosity 🌟
+Keep taking care of yourself 🌈",,,
+5ae7328b-ced2-4f6b-ae68-fb8b6593e7ab,2025-09-16T16:08:18.000327,"""I had rice and curry for lunch today.""","[[""neutral"", 0.9737315773963928], [""approval"", 0.22279244661331177]]","[[""Normal"", 0.9305332899093628]]","I hear you 💙
+It’s wonderful to be in a good place 🌟",,,
+2cd40003-0b68-4051-9a85-a5def6bb76a9,2025-09-16T16:08:34.506143,"""The weather is cloudy but not too cold.""","[[""neutral"", 0.9055079221725464], [""approval"", 0.35813066363334656]]","[[""Normal"", 0.9245803952217102]]","Thank you for sharing your feelings 🙏
+It’s wonderful to be in a good place 🌟",,,
+2954c1b3-d410-4950-8f3e-dfc04762e3b3,2025-09-16T16:08:50.427743,"""I’m going to the library to return some books.""","[[""neutral"", 0.9616435170173645], [""approval"", 0.24618008732795715]]","[[""Normal"", 0.9180728793144226]]","Thank you for sharing your feelings 🙏
+Keep taking care of yourself 🌈",,,
+7b5f68e0-578f-4765-a803-b20c77567226,2025-09-17T09:04:50.262539,hi,"[[""neutral"", 0.9388443231582642]]","[[""Normal"", 0.9141526222229004]]","I hear you 💙
+It’s wonderful to be in a good place 🌟",,,
+6ba43773-b053-4742-8460-7c738ab70479,2025-09-17T09:05:19.905037,"""I’m so glad I finally met my best friend today!""","[[""joy"", 0.9714090824127197], [""excitement"", 0.5608581304550171], [""admiration"", 0.37185952067375183]]","[[""Normal"", 0.9113007187843323]]","Keep shining with your happiness ✨
+Keep taking care of yourself 🌈",,,
+8d51b9f5-823b-4816-a2ad-73b358c0f6cf,2025-09-17T09:05:32.635445,"""I feel empty and just want to cry.""","[[""sadness"", 0.9934733510017395], [""disappointment"", 0.35018473863601685]]","[[""Depression"", 0.6384421586990356]]","It’s okay to feel down, I’m here 🤗
+Thank you for opening up 🙏",,,
+3daa701e-7daa-492f-b639-500d125f3fcd,2025-09-17T09:05:46.757014,"""This is so unfair, I can’t stand it anymore!""","[[""anger"", 0.7790115475654602], [""disapproval"", 0.7351595163345337], [""annoyance"", 0.6250901818275452], [""disappointment"", 0.4891332685947418], [""disgust"", 0.303771436214447]]","[[""Depression"", 0.45925450325012207]]","It’s okay to feel angry sometimes ❤️
+Thank you for opening up 🙏",,,
+f144a140-369e-4cb0-909c-65d8d4b74501,2025-09-17T09:06:08.733175,"""I’m really scared about the future.""","[[""fear"", 0.9887455105781555], [""nervousness"", 0.2574032247066498]]","[[""Anxiety"", 0.3612351417541504]]","I sense your fear 💜
+Your feelings matter ❤️",,,
+a53f6c6b-0bcf-4f3e-8a1c-ad6d4a627b79,2025-09-17T09:06:24.498934,"""Wow, I wasn’t expecting that gift at all!""","[[""surprise"", 0.97786545753479], [""excitement"", 0.48443225026130676], [""realization"", 0.36412379145622253]]","[[""Normal"", 0.9246511459350586]]","I didn’t see that coming either 😮
+I’m glad you’re feeling stable 💚",,,
+faf8a4f4-407e-4f6c-848a-a0d6e8324457,2025-09-17T09:06:36.668720,"""I love spending time with my family.""","[[""love"", 0.9844669103622437], [""joy"", 0.42644771933555603]]","[[""Normal"", 0.926558256149292]]","It’s beautiful to feel love 💕
+I’m glad you’re feeling stable 💚",,,
+e1cded70-3cf6-48f6-bf6c-1984a2ab603e,2025-09-17T09:06:51.179155,"""I can’t wait to go on vacation next week!""","[[""excitement"", 0.956108570098877], [""curiosity"", 0.4540489912033081]]","[[""Normal"", 0.920036256313324]]","I can feel your energy 🌟
+It’s wonderful to be in a good place 🌟",,,
+4385e45e-06e1-4bb8-9e42-8a658aa2147d,2025-09-17T09:07:09.405378,"""Nothing feels interesting right now.""","[[""neutral"", 0.6602148413658142], [""disapproval"", 0.539093554019928], [""disappointment"", 0.37265434861183167]]","[[""Normal"", 0.8763338923454285]]","Thank you for sharing your feelings 🙏
+Keep taking care of yourself 🌈",,,
+92429f19-66cb-4eef-a847-15dff07314ff,2025-09-17T09:07:30.205051,"""I don’t understand why this keeps happening.""","[[""confusion"", 0.9687660336494446], [""annoyance"", 0.2763901948928833], [""disappointment"", 0.26130104064941406], [""disapproval"", 0.25641652941703796]]","[[""Normal"", 0.7173131704330444]]","Things can be unclear sometimes 🌫
+It’s wonderful to be in a good place 🌟",,,
+3b85a3f1-dbfa-4673-9a1d-01b2bf978ed3,2025-09-17T09:07:44.439507,"""I’m just sitting outside enjoying the fresh air.""","[[""joy"", 0.9788920879364014], [""neutral"", 0.4176435172557831], [""approval"", 0.2217693328857422]]","[[""Normal"", 0.9067068696022034]]","That’s wonderful to hear 🌞
+I’m glad you’re feeling stable 💚",,,
+be1b8b95-e794-47bc-83d6-0a8be36918cc,2025-09-17T15:33:20.920318,hello,"[[""neutral"", 0.9615991115570068]]","[[""Normal"", 0.8664751052856445]]","Hello there. It's great that you've reached out for support. I'm here to listen and help in any way I can. You seem to be in a good place at the moment, and that's wonderful. Is there anything on your mind that you'd like to talk about, or would you like me to suggest some conversation topics to help you get started?",,,
+be1b8b95-e794-47bc-83d6-0a8be36918cc,2025-09-17T15:33:49.461342,i am feeling sad today,"[[""sadness"", 0.9842734336853027]]","[[""Depression"", 0.4007783830165863]]","I'm so sorry to hear that you're feeling sad today. It takes a lot of courage to acknowledge and share your feelings, and I'm here to listen without judgment. You're not alone in this feeling, and it's okay to feel sad sometimes. Would you like to talk about what's on your mind and what might be contributing to your sadness today? I'm here to listen and offer support in any way I can.",,,
+4529f78c-6682-4de3-a338-16152de9d538,2025-09-17T16:08:40.934015,hello,"[[""neutral"", 0.9615991115570068]]","[[""Normal"", 0.8664751052856445]]","I’m here with you 🤝
+It’s wonderful to be in a good place 🌟",,,
+4529f78c-6682-4de3-a338-16152de9d538,2025-09-17T16:09:59.940978,hello,"[[""neutral"", 0.9615991115570068]]","[[""Normal"", 0.8664751052856445]]","I hear you 💙
+Keep taking care of yourself 🌈",,,
+7ccce134-db9a-4a8a-a33d-17c99972ad53,2025-09-17T16:11:20.265719,hello,"[[""neutral"", 0.9615991115570068]]","[[""Normal"", 0.8664751052856445]]",Hello! It's great to connect with you today. How's your day been so far?,,,
+7ccce134-db9a-4a8a-a33d-17c99972ad53,2025-09-17T16:11:38.141866,iam good to see you,"[[""joy"", 0.8125054836273193], [""admiration"", 0.6300963759422302], [""gratitude"", 0.42190811038017273], [""caring"", 0.3568449914455414], [""excitement"", 0.2547357380390167]]","[[""Normal"", 0.9322733879089355]]","It's wonderful to see you too, and I'm glad you're feeling good today. How's your day going so far, and what's something that's putting a big smile on your face?",,,
+7ccce134-db9a-4a8a-a33d-17c99972ad53,2025-09-17T16:12:05.644965,bye,"[[""neutral"", 0.9131028056144714]]","[[""Normal"", 0.7455086708068848]]","It was great chatting with you, even if it was brief. If you're feeling up for it, how's your day been so far?",,,
+84dc732a-bc49-46fd-885d-3100031015ae,2025-09-17T16:14:48.908560,hi,"[[""neutral"", 0.9388443231582642]]","[[""Normal"", 0.9141526222229004]]",Hello! It's great to connect with you. How's your day starting out so far?,,,
+84dc732a-bc49-46fd-885d-3100031015ae,2025-09-17T16:15:10.232134,i am feeling nervous today ,"[[""fear"", 0.9732497334480286]]","[[""Anxiety"", 0.8807194828987122]]",I'm so sorry to hear you're feeling nervous today. It's completely understandable to feel that way sometimes. Take a deep breath and know that you're strong and capable of getting through this. Try taking a small step towards something you enjoy or find calming to help shift your mood.,,,
+84dc732a-bc49-46fd-885d-3100031015ae,2025-09-17T16:15:50.626582,i am very nervous about tomorrows exam,"[[""fear"", 0.9767022132873535]]","[[""Anxiety"", 0.8285872936248779]]","I totally get it - it's normal to feel nervous before a big exam. You're doing your best, and that's something to be proud of. Take some deep breaths, and focus on what you've prepared for – you've got this!",,,
+84dc732a-bc49-46fd-885d-3100031015ae,,,,,,2025-09-17T16:14:45.445650,2025-09-17T16:31:42.013314,0:16:56.567664
+edea8e2a-b742-4bc9-ba4f-7b720c02e4e9,2025-09-17T16:32:33.342815,hello,"[[""neutral"", 0.9615991115570068]]","[[""Normal"", 0.8664751052856445]]",Welcome to our chat! It's great to connect with you today. How's your day going so far?,,,
+edea8e2a-b742-4bc9-ba4f-7b720c02e4e9,2025-09-17T16:32:45.838520,how are you?,"[[""curiosity"", 0.8954654932022095], [""neutral"", 0.6731707453727722]]","[[""Normal"", 0.9284160733222961]]","I'm doing well, thanks for asking! I'm here to listen and help if you need it, but I'm also curious - what's on your mind today?",,,
+edea8e2a-b742-4bc9-ba4f-7b720c02e4e9,2025-09-17T16:33:22.930575,i am feeling very nervous for todays report submition,"[[""fear"", 0.9730063676834106]]","[[""Anxiety"", 0.8873283863067627]]","It's normal to feel nervous about a big report submission. Take a deep breath and remember that you've prepared well for this moment. Break it down into smaller steps, focus on what you can control, and trust in your abilities. You've got this!",,,
+edea8e2a-b742-4bc9-ba4f-7b720c02e4e9,2025-09-17T16:33:49.092380,bye,"[[""neutral"", 0.9131028056144714]]","[[""Normal"", 0.7455086708068848]]","It was great chatting with you, even if it was brief. If you ever want to talk or need someone to listen, I'm here for you anytime.",,,
+edea8e2a-b742-4bc9-ba4f-7b720c02e4e9,,,,,,2025-09-17T16:32:04.093085,2025-09-17T16:34:02.022771,0:01:57.929686
+e37ee309-d0f6-44e1-8f03-768d3b424c15,2025-09-17T16:47:25.288275,hi,"[[""neutral"", 0.9388443231582642]]","[[""Normal"", 0.9141526222229004]]","Hello, it's great to connect with you. How's your day been so far?",,,
+e077e517-8621-48ba-bf5b-ab5edc422d63,2025-09-17T16:47:41.566967,i am very happy today,"[[""joy"", 0.9916679859161377]]","[[""Normal"", 0.8778542876243591]]",That's wonderful to hear that you're feeling happy today! What's bringing you so much joy - is it something specific or just a lovely day overall?,,,
+a818cf6f-0a89-4901-9548-b103a733cd58,2025-09-17T16:48:15.102961,i am feeling nervous ,"[[""fear"", 0.9741689562797546]]","[[""Anxiety"", 0.8915968537330627]]","It's totally normal to feel nervous, and I'm here to support you. Your feelings are valid, and it's okay to take a deep breath and start small, like doing something you enjoy or taking a short walk. Remember, you've overcome challenges before, and you can do it again. What's one tiny step you can take today to feel a bit more calm?",,,
+39fca8b2-8090-4ac1-9796-90769c9c6194,2025-09-17T16:50:13.935486,exit,"[[""neutral"", 0.9538442492485046]]","[[""Depression"", 0.44447827339172363]]","It's okay to feel overwhelmed. I'm here to support you, not push you further. Let's take things one small step at a time, like taking a few deep breaths or getting a glass of water. How can I help you today?",,,
+ee7e46cb-a8f0-461b-a628-b3ce67f8d2bd,2025-09-17T18:39:33.189191,hi,"[[""neutral"", 0.9388443231582642]]","[[""Normal"", 0.9141526222229004]]","Hi there, it's nice to chat with you. How's your day going so far?",,,
+37b1c435-f0d9-4762-8624-636f4b3a0af9,2025-09-17T18:39:41.165150,good ,"[[""admiration"", 0.9639242887496948], [""approval"", 0.2997206449508667]]","[[""Normal"", 0.9300858378410339]]",It's great to see you're having a good day. What's been going well for you so far?,,,
+389d1069-aa12-4494-993a-f1e3e3d957c3,2025-09-17T18:40:00.941695,i am feeling very nervous ,"[[""fear"", 0.9739941954612732]]","[[""Anxiety"", 0.8787825107574463]]","It's completely normal to feel nervous, and I'm here to support you. You're doing the best you can, and that's something to be proud of. Take a deep breath and focus on one small step forward – you can get through this.",,,
+e8d80f9d-c372-4db3-b0f2-89f611d09e9c,2025-09-17T19:04:27.500890,hi,"[[""neutral"", 0.9388443231582642]]","[[""Normal"", 0.9141526222229004]]","Hello, it's nice to chat with you. How's your day going so far?",,,
+17842646-231b-4c5c-b5e3-beb44d54a7c5,2025-09-17T19:04:34.385805,how are you?,"[[""curiosity"", 0.8954654932022095], [""neutral"", 0.6731707453727722]]","[[""Normal"", 0.9284160733222961]]","I'm doing great, thanks for asking! It's always wonderful to connect with someone new and explore interesting conversations together.",,,
+a467f361-28f5-4c39-b8b3-755523d0468b,2025-09-17T19:05:55.076105,i am feeling very sad today,"[[""sadness"", 0.9843062162399292]]","[[""Depression"", 0.5180765986442566]]","I'm so sorry to hear you're feeling sad today. It's okay to feel overwhelmed, and it's brave of you to acknowledge these emotions. Take a deep breath, and remember that small steps, like taking a walk or doing something you enjoy, can bring a little bit of happiness into your day. You are not alone, and I'm here to support you.",,,
+34389735-4138-4d0c-95b6-0dae37399962,2025-09-17T19:06:13.638254,i am feeling alone,"[[""sadness"", 0.9809216856956482]]","[[""Depression"", 0.623992919921875]]","I'm so sorry to hear you're feeling alone. It's okay to feel this way, and it doesn't mean you're not worthy of love and connection. Small steps can make a big difference – try reaching out to a friend or family member today, or simply taking a few deep breaths in nature. You're not alone in this feeling, and things can get better.",,,
+411bb037-06a1-412d-a206-83e9664bcbe0,2025-09-17T19:06:30.808045,i want to die,"[[""sadness"", 0.8903828859329224], [""disappointment"", 0.36386892199516296], [""grief"", 0.18255312740802765]]","[[""Depression"", 0.4072912335395813], [""Suicidal"", 0.5652762651443481]]","I'm so sorry you're feeling that way. It takes immense courage to share those thoughts, and I'm here to support you. Let's take it one step at a time – can we start with something small, like taking a few deep breaths together?",,,
+6d7da08d-9c35-4837-b8cb-62b602ae30ac,2025-09-17T19:07:25.920268,hi,"[[""neutral"", 0.9388443231582642]]","[[""Normal"", 0.9141526222229004]]",Hello! It's great to connect with you. How's your day been so far - anything exciting or relaxing that's put a smile on your face?,,,
+6b7fdea2-550f-4950-85d6-ada6bf5a35b2,2025-09-17T19:07:37.997216,i am really happy today,"[[""joy"", 0.9910125136375427]]","[[""Normal"", 0.8274048566818237]]",That's wonderful to hear! What's making you feel so happy today - is it something exciting that's happening or just a great day overall?,,,
+62716b5e-085d-422a-b6a8-dc688b5944c1,2025-09-17T19:08:02.321859,i am feeling alone,"[[""sadness"", 0.9809216856956482]]","[[""Depression"", 0.623992919921875]]","It takes a lot of courage to acknowledge feeling alone, and I'm here to listen and support you. You're not alone in this feeling, and it's okay to reach out for help. Take a small step today by doing something that brings you gentle comfort, like taking a warm bath, listening to soothing music, or reading a favorite book.",,,
+6f719285-8b15-44dc-8726-d39baf8ec1fa,2025-09-17T19:08:30.282303,hi,"[[""neutral"", 0.9388443231582642]]","[[""Normal"", 0.9141526222229004]]",Hello! It's great to chat with you. How's your day going so far?,,,
+cf62796a-a9c7-4e94-b46e-70db24e470e3,2025-09-17T19:08:56.338851,i am feeling little bit nervous for tomorrows exam,"[[""fear"", 0.9715898036956787]]","[[""Anxiety"", 0.8061801195144653]]","It's normal to feel nervous before a big exam, and I'm here to help you feel more at ease. Remember, you've prepared well and are capable of doing your best. Take a few deep breaths and focus on what you can control - your own efforts and mindset.",,,
