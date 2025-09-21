@@ -1,0 +1,178 @@
+{
+  "session_id": 0,
+  "start_time": "2025-09-11T18:04:58.393468",
+  "end_time": "2025-09-11T18:07:36.508890",
+  "message_count": 7,
+  "emotions_count": {
+    "disappointment": 1,
+    "excitement": 1,
+    "fear": 2,
+    "curiosity": 1,
+    "joy": 2,
+    "gratitude": 1,
+    "surprise": 1,
+    "nervousness": 2,
+    "neutral": 2,
+    "sadness": 1
+  },
+  "distress_count": {
+    "Anxiety": 2,
+    "Normal": 5
+  },
+  "chat_log": [
+    {
+      "timestamp": "2025-09-11T18:04:58.393468",
+      "user_input": "hello",
+      "bot_response": "",
+      "emotions": [
+        [
+          "neutral",
+          0.9615991115570068
+        ]
+      ],
+      "distress": [
+        [
+          "Normal",
+          0.8664751052856445
+        ]
+      ],
+      "sender": "user"
+    },
+    {
+      "timestamp": "2025-09-11T18:05:10.519930",
+      "user_input": "how are you?",
+      "bot_response": "",
+      "emotions": [
+        [
+          "curiosity",
+          0.8954654932022095
+        ],
+        [
+          "neutral",
+          0.6731707453727722
+        ]
+      ],
+      "distress": [
+        [
+          "Normal",
+          0.9284160733222961
+        ]
+      ],
+      "sender": "user"
+    },
+    {
+      "timestamp": "2025-09-11T18:05:59.441620",
+      "user_input": "i am feeling very happy to talk with you",
+      "bot_response": "",
+      "emotions": [
+        [
+          "joy",
+          0.9862307906150818
+        ]
+      ],
+      "distress": [
+        [
+          "Normal",
+          0.9325520396232605
+        ]
+      ],
+      "sender": "user"
+    },
+    {
+      "timestamp": "2025-09-11T18:06:15.923364",
+      "user_input": "I’m happy for them, but I feel lonely inside",
+      "bot_response": "",
+      "emotions": [
+        [
+          "sadness",
+          0.9197692275047302
+        ],
+        [
+          "joy",
+          0.8993453979492188
+        ],
+        [
+          "disappointment",
+          0.21028195321559906
+        ]
+      ],
+      "distress": [
+        [
+          "Normal",
+          0.7377713918685913
+        ]
+      ],
+      "sender": "user"
+    },
+    {
+      "timestamp": "2025-09-11T18:06:30.239731",
+      "user_input": "That was totally unexpected",
+      "bot_response": "",
+      "emotions": [
+        [
+          "surprise",
+          0.9400469660758972
+        ]
+      ],
+      "distress": [
+        [
+          "Normal",
+          0.9278352856636047
+        ]
+      ],
+      "sender": "user"
+    },
+    {
+      "timestamp": "2025-09-11T18:06:51.817191",
+      "user_input": "I’m nervous about the interview, but also excited",
+      "bot_response": "",
+      "emotions": [
+        [
+          "excitement",
+          0.4904235899448395
+        ],
+        [
+          "fear",
+          0.4574703872203827
+        ],
+        [
+          "nervousness",
+          0.3968445062637329
+        ]
+      ],
+      "distress": [
+        [
+          "Anxiety",
+          0.7942650318145752
+        ]
+      ],
+      "sender": "user"
+    },
+    {
+      "timestamp": "2025-09-11T18:07:36.508890",
+      "user_input": "I feel grateful but anxious about the future",
+      "bot_response": "",
+      "emotions": [
+        [
+          "gratitude",
+          0.8419249057769775
+        ],
+        [
+          "fear",
+          0.5284956097602844
+        ],
+        [
+          "nervousness",
+          0.3264769911766052
+        ]
+      ],
+      "distress": [
+        [
+          "Anxiety",
+          0.9002981185913086
+        ]
+      ],
+      "sender": "user"
+    }
+  ]
+}

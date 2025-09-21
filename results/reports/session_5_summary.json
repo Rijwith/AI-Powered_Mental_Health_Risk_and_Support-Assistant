@@ -1,0 +1,52 @@
+{
+  "session_id": 5,
+  "start_time": "2025-09-17T15:33:20.920318",
+  "end_time": "2025-09-17T15:33:49.461342",
+  "message_count": 2,
+  "emotions_count": {
+    "neutral": 1,
+    "sadness": 1
+  },
+  "distress_count": {
+    "Normal": 1,
+    "Depression": 1
+  },
+  "chat_log": [
+    {
+      "timestamp": "2025-09-17T15:33:20.920318",
+      "user_input": "hello",
+      "bot_response": "",
+      "emotions": [
+        [
+          "neutral",
+          0.9615991115570068
+        ]
+      ],
+      "distress": [
+        [
+          "Normal",
+          0.8664751052856445
+        ]
+      ],
+      "sender": "user"
+    },
+    {
+      "timestamp": "2025-09-17T15:33:49.461342",
+      "user_input": "i am feeling sad today",
+      "bot_response": "",
+      "emotions": [
+        [
+          "sadness",
+          0.9842734336853027
+        ]
+      ],
+      "distress": [
+        [
+          "Depression",
+          0.4007783830165863
+        ]
+      ],
+      "sender": "user"
+    }
+  ]
+}

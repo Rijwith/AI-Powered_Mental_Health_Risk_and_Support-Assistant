@@ -1,0 +1,122 @@
+{
+  "session_id": 3,
+  "start_time": "2025-09-16T16:06:20.225063",
+  "end_time": "2025-09-16T16:08:50.427743",
+  "message_count": 5,
+  "emotions_count": {
+    "neutral": 5,
+    "curiosity": 1,
+    "approval": 3
+  },
+  "distress_count": {
+    "Normal": 5
+  },
+  "chat_log": [
+    {
+      "timestamp": "2025-09-16T16:06:20.225063",
+      "user_input": "hi",
+      "bot_response": "",
+      "emotions": [
+        [
+          "neutral",
+          0.9388443231582642
+        ]
+      ],
+      "distress": [
+        [
+          "Normal",
+          0.9141526222229004
+        ]
+      ],
+      "sender": "user"
+    },
+    {
+      "timestamp": "2025-09-16T16:06:28.220377",
+      "user_input": "how are you?",
+      "bot_response": "",
+      "emotions": [
+        [
+          "curiosity",
+          0.8954654932022095
+        ],
+        [
+          "neutral",
+          0.6731707453727722
+        ]
+      ],
+      "distress": [
+        [
+          "Normal",
+          0.9284160733222961
+        ]
+      ],
+      "sender": "user"
+    },
+    {
+      "timestamp": "2025-09-16T16:08:18.000327",
+      "user_input": "\"I had rice and curry for lunch today.\"",
+      "bot_response": "",
+      "emotions": [
+        [
+          "neutral",
+          0.9737315773963928
+        ],
+        [
+          "approval",
+          0.22279244661331177
+        ]
+      ],
+      "distress": [
+        [
+          "Normal",
+          0.9305332899093628
+        ]
+      ],
+      "sender": "user"
+    },
+    {
+      "timestamp": "2025-09-16T16:08:34.506143",
+      "user_input": "\"The weather is cloudy but not too cold.\"",
+      "bot_response": "",
+      "emotions": [
+        [
+          "neutral",
+          0.9055079221725464
+        ],
+        [
+          "approval",
+          0.35813066363334656
+        ]
+      ],
+      "distress": [
+        [
+          "Normal",
+          0.9245803952217102
+        ]
+      ],
+      "sender": "user"
+    },
+    {
+      "timestamp": "2025-09-16T16:08:50.427743",
+      "user_input": "\"I’m going to the library to return some books.\"",
+      "bot_response": "",
+      "emotions": [
+        [
+          "neutral",
+          0.9616435170173645
+        ],
+        [
+          "approval",
+          0.24618008732795715
+        ]
+      ],
+      "distress": [
+        [
+          "Normal",
+          0.9180728793144226
+        ]
+      ],
+      "sender": "user"
+    }
+  ]
+}

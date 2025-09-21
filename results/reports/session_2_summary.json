@@ -1,0 +1,924 @@
+{
+  "session_id": 2,
+  "start_time": "2025-09-16T09:53:26.244660",
+  "end_time": "2025-09-16T10:57:49.777543",
+  "message_count": 38,
+  "emotions_count": {
+    "surprise": 1,
+    "optimism": 1,
+    "nervousness": 5,
+    "sadness": 13,
+    "disappointment": 14,
+    "pride": 1,
+    "disapproval": 5,
+    "amusement": 1,
+    "joy": 4,
+    "approval": 3,
+    "desire": 2,
+    "fear": 4,
+    "neutral": 16,
+    "anger": 2,
+    "admiration": 2,
+    "excitement": 5,
+    "curiosity": 2,
+    "confusion": 1,
+    "love": 1,
+    "annoyance": 4
+  },
+  "distress_count": {
+    "Anxiety": 4,
+    "Suicidal": 4,
+    "Normal": 24,
+    "Depression": 8
+  },
+  "chat_log": [
+    {
+      "timestamp": "2025-09-16T09:53:26.244660",
+      "user_input": "hello",
+      "bot_response": "",
+      "emotions": [
+        [
+          "neutral",
+          0.9615991115570068
+        ]
+      ],
+      "distress": [
+        [
+          "Normal",
+          0.8664751052856445
+        ]
+      ],
+      "sender": "user"
+    },
+    {
+      "timestamp": "2025-09-16T09:54:00.657269",
+      "user_input": "i am feeling very low today",
+      "bot_response": "",
+      "emotions": [
+        [
+          "sadness",
+          0.9834901094436646
+        ]
+      ],
+      "distress": [
+        [
+          "Depression",
+          0.7648776769638062
+        ]
+      ],
+      "sender": "user"
+    },
+    {
+      "timestamp": "2025-09-16T09:54:57.077902",
+      "user_input": "i am feeling alone",
+      "bot_response": "",
+      "emotions": [
+        [
+          "sadness",
+          0.9809216856956482
+        ]
+      ],
+      "distress": [
+        [
+          "Depression",
+          0.623992919921875
+        ]
+      ],
+      "sender": "user"
+    },
+    {
+      "timestamp": "2025-09-16T09:55:15.503289",
+      "user_input": "love you so much",
+      "bot_response": "",
+      "emotions": [
+        [
+          "love",
+          0.9746347069740295
+        ]
+      ],
+      "distress": [
+        [
+          "Normal",
+          0.9254867434501648
+        ]
+      ],
+      "sender": "user"
+    },
+    {
+      "timestamp": "2025-09-16T10:19:12.278289",
+      "user_input": "hello",
+      "bot_response": "",
+      "emotions": [
+        [
+          "neutral",
+          0.9615991115570068
+        ]
+      ],
+      "distress": [
+        [
+          "Normal",
+          0.8664751052856445
+        ]
+      ],
+      "sender": "user"
+    },
+    {
+      "timestamp": "2025-09-16T10:19:19.144750",
+      "user_input": "hi buddy",
+      "bot_response": "",
+      "emotions": [
+        [
+          "neutral",
+          0.8401020765304565
+        ]
+      ],
+      "distress": [
+        [
+          "Normal",
+          0.9209051728248596
+        ]
+      ],
+      "sender": "user"
+    },
+    {
+      "timestamp": "2025-09-16T10:24:17.143613",
+      "user_input": "hello",
+      "bot_response": "",
+      "emotions": [
+        [
+          "neutral",
+          0.9615991115570068
+        ]
+      ],
+      "distress": [
+        [
+          "Normal",
+          0.8664751052856445
+        ]
+      ],
+      "sender": "user"
+    },
+    {
+      "timestamp": "2025-09-16T10:25:12.248579",
+      "user_input": "bye",
+      "bot_response": "",
+      "emotions": [
+        [
+          "neutral",
+          0.9131028056144714
+        ]
+      ],
+      "distress": [
+        [
+          "Normal",
+          0.7455086708068848
+        ]
+      ],
+      "sender": "user"
+    },
+    {
+      "timestamp": "2025-09-16T10:25:16.420760",
+      "user_input": "exit",
+      "bot_response": "",
+      "emotions": [
+        [
+          "neutral",
+          0.9538442492485046
+        ]
+      ],
+      "distress": [
+        [
+          "Depression",
+          0.44447827339172363
+        ]
+      ],
+      "sender": "user"
+    },
+    {
+      "timestamp": "2025-09-16T10:25:20.837335",
+      "user_input": "quit",
+      "bot_response": "",
+      "emotions": [
+        [
+          "neutral",
+          0.927447497844696
+        ]
+      ],
+      "distress": [
+        [
+          "Normal",
+          0.6696332693099976
+        ]
+      ],
+      "sender": "user"
+    },
+    {
+      "timestamp": "2025-09-16T10:29:05.523199",
+      "user_input": "hello",
+      "bot_response": "",
+      "emotions": [
+        [
+          "neutral",
+          0.9615991115570068
+        ]
+      ],
+      "distress": [
+        [
+          "Normal",
+          0.8664751052856445
+        ]
+      ],
+      "sender": "user"
+    },
+    {
+      "timestamp": "2025-09-16T10:29:13.484592",
+      "user_input": "my name is Rijwith",
+      "bot_response": "",
+      "emotions": [
+        [
+          "neutral",
+          0.9728788733482361
+        ],
+        [
+          "approval",
+          0.25720369815826416
+        ]
+      ],
+      "distress": [
+        [
+          "Normal",
+          0.8894875645637512
+        ]
+      ],
+      "sender": "user"
+    },
+    {
+      "timestamp": "2025-09-16T10:29:20.107815",
+      "user_input": "how are you?",
+      "bot_response": "",
+      "emotions": [
+        [
+          "curiosity",
+          0.8954654932022095
+        ],
+        [
+          "neutral",
+          0.6731707453727722
+        ]
+      ],
+      "distress": [
+        [
+          "Normal",
+          0.9284160733222961
+        ]
+      ],
+      "sender": "user"
+    },
+    {
+      "timestamp": "2025-09-16T10:29:29.616699",
+      "user_input": "i am very happy today",
+      "bot_response": "",
+      "emotions": [
+        [
+          "joy",
+          0.9916679859161377
+        ]
+      ],
+      "distress": [
+        [
+          "Normal",
+          0.8778542876243591
+        ]
+      ],
+      "sender": "user"
+    },
+    {
+      "timestamp": "2025-09-16T10:29:37.914793",
+      "user_input": "i am not happy today",
+      "bot_response": "",
+      "emotions": [
+        [
+          "sadness",
+          0.8807441592216492
+        ]
+      ],
+      "distress": [
+        [
+          "Normal",
+          0.8074998259544373
+        ]
+      ],
+      "sender": "user"
+    },
+    {
+      "timestamp": "2025-09-16T10:29:52.448688",
+      "user_input": "i feel like hungry",
+      "bot_response": "",
+      "emotions": [
+        [
+          "anger",
+          0.18997856974601746
+        ]
+      ],
+      "distress": [
+        [
+          "Normal",
+          0.9292505979537964
+        ]
+      ],
+      "sender": "user"
+    },
+    {
+      "timestamp": "2025-09-16T10:30:06.065958",
+      "user_input": "i am starving",
+      "bot_response": "",
+      "emotions": [
+        [
+          "sadness",
+          0.9229058623313904
+        ],
+        [
+          "disappointment",
+          0.3237774074077606
+        ],
+        [
+          "nervousness",
+          0.15840014815330505
+        ]
+      ],
+      "distress": [
+        [
+          "Normal",
+          0.9098061919212341
+        ]
+      ],
+      "sender": "user"
+    },
+    {
+      "timestamp": "2025-09-16T10:33:04.985146",
+      "user_input": "hello",
+      "bot_response": "",
+      "emotions": [
+        [
+          "neutral",
+          0.9615991115570068
+        ]
+      ],
+      "distress": [
+        [
+          "Normal",
+          0.8664751052856445
+        ]
+      ],
+      "sender": "user"
+    },
+    {
+      "timestamp": "2025-09-16T10:33:37.254582",
+      "user_input": "I feel like I can’t handle life, and my chest is always tight with worry.",
+      "bot_response": "",
+      "emotions": [
+        [
+          "nervousness",
+          0.8176387548446655
+        ],
+        [
+          "fear",
+          0.6799182295799255
+        ],
+        [
+          "sadness",
+          0.6353676915168762
+        ],
+        [
+          "disappointment",
+          0.520920991897583
+        ]
+      ],
+      "distress": [
+        [
+          "Anxiety",
+          0.5594664812088013
+        ]
+      ],
+      "sender": "user"
+    },
+    {
+      "timestamp": "2025-09-16T10:33:55.118049",
+      "user_input": "I can’t sleep because my thoughts won’t stop, and everything feels meaningless.",
+      "bot_response": "",
+      "emotions": [
+        [
+          "sadness",
+          0.6810252070426941
+        ],
+        [
+          "disappointment",
+          0.676265299320221
+        ],
+        [
+          "disapproval",
+          0.6382152438163757
+        ],
+        [
+          "annoyance",
+          0.36768001317977905
+        ]
+      ],
+      "distress": [
+        [
+          "Depression",
+          0.516814112663269
+        ]
+      ],
+      "sender": "user"
+    },
+    {
+      "timestamp": "2025-09-16T10:34:10.500059",
+      "user_input": "I feel so worthless, I don’t think I should keep going.",
+      "bot_response": "",
+      "emotions": [
+        [
+          "sadness",
+          0.8682705760002136
+        ],
+        [
+          "disappointment",
+          0.6153074502944946
+        ],
+        [
+          "disapproval",
+          0.6129587888717651
+        ],
+        [
+          "annoyance",
+          0.2502882480621338
+        ]
+      ],
+      "distress": [
+        [
+          "Depression",
+          0.46777138113975525
+        ],
+        [
+          "Suicidal",
+          0.49421635270118713
+        ]
+      ],
+      "sender": "user"
+    },
+    {
+      "timestamp": "2025-09-16T10:34:31.565251",
+      "user_input": "Every day hurts, and sometimes I wish it would all just end.",
+      "bot_response": "",
+      "emotions": [
+        [
+          "sadness",
+          0.8518880605697632
+        ],
+        [
+          "desire",
+          0.730620801448822
+        ],
+        [
+          "disappointment",
+          0.6340647339820862
+        ],
+        [
+          "optimism",
+          0.4723324775695801
+        ]
+      ],
+      "distress": [
+        [
+          "Depression",
+          0.4316655397415161
+        ],
+        [
+          "Suicidal",
+          0.5098035335540771
+        ]
+      ],
+      "sender": "user"
+    },
+    {
+      "timestamp": "2025-09-16T10:48:20.264839",
+      "user_input": "hi!",
+      "bot_response": "",
+      "emotions": [
+        [
+          "neutral",
+          0.9040414690971375
+        ]
+      ],
+      "distress": [
+        [
+          "Normal",
+          0.9088038206100464
+        ]
+      ],
+      "sender": "user"
+    },
+    {
+      "timestamp": "2025-09-16T10:49:25.112359",
+      "user_input": "\"I just got a promotion at work! Feeling amazing today 😊\"",
+      "bot_response": "",
+      "emotions": [
+        [
+          "admiration",
+          0.8262422680854797
+        ],
+        [
+          "excitement",
+          0.7959957718849182
+        ],
+        [
+          "joy",
+          0.7872267365455627
+        ]
+      ],
+      "distress": [
+        [
+          "Normal",
+          0.8898702263832092
+        ]
+      ],
+      "sender": "user"
+    },
+    {
+      "timestamp": "2025-09-16T10:49:50.743126",
+      "user_input": "\"I had so much fun at the party last night!\"",
+      "bot_response": "",
+      "emotions": [
+        [
+          "joy",
+          0.9298150539398193
+        ],
+        [
+          "amusement",
+          0.77484530210495
+        ],
+        [
+          "excitement",
+          0.4590000510215759
+        ]
+      ],
+      "distress": [
+        [
+          "Normal",
+          0.9122825860977173
+        ]
+      ],
+      "sender": "user"
+    },
+    {
+      "timestamp": "2025-09-16T10:50:12.922505",
+      "user_input": "\"I finally finished my project and it went well!\"",
+      "bot_response": "",
+      "emotions": [
+        [
+          "joy",
+          0.730427086353302
+        ],
+        [
+          "admiration",
+          0.49590739607810974
+        ],
+        [
+          "approval",
+          0.4949006736278534
+        ],
+        [
+          "pride",
+          0.41033557057380676
+        ],
+        [
+          "excitement",
+          0.3687853217124939
+        ]
+      ],
+      "distress": [
+        [
+          "Normal",
+          0.9189355373382568
+        ]
+      ],
+      "sender": "user"
+    },
+    {
+      "timestamp": "2025-09-16T10:50:33.335215",
+      "user_input": "\"I feel so lonely and no one seems to care.\"",
+      "bot_response": "",
+      "emotions": [
+        [
+          "sadness",
+          0.9852015376091003
+        ],
+        [
+          "disappointment",
+          0.5837377905845642
+        ]
+      ],
+      "distress": [
+        [
+          "Depression",
+          0.5399077534675598
+        ]
+      ],
+      "sender": "user"
+    },
+    {
+      "timestamp": "2025-09-16T10:50:54.681634",
+      "user_input": "\"I don’t think I can handle this anymore.\"",
+      "bot_response": "",
+      "emotions": [
+        [
+          "disapproval",
+          0.8147872686386108
+        ],
+        [
+          "sadness",
+          0.5720887184143066
+        ],
+        [
+          "disappointment",
+          0.45191654562950134
+        ]
+      ],
+      "distress": [
+        [
+          "Suicidal",
+          0.5234774351119995
+        ]
+      ],
+      "sender": "user"
+    },
+    {
+      "timestamp": "2025-09-16T10:51:29.436417",
+      "user_input": "\"Everything feels heavy and I just want to stay in bed.\"",
+      "bot_response": "",
+      "emotions": [
+        [
+          "desire",
+          0.848065197467804
+        ],
+        [
+          "sadness",
+          0.6127186417579651
+        ],
+        [
+          "neutral",
+          0.5147730708122253
+        ],
+        [
+          "disappointment",
+          0.3866429328918457
+        ]
+      ],
+      "distress": [
+        [
+          "Normal",
+          0.7196476459503174
+        ]
+      ],
+      "sender": "user"
+    },
+    {
+      "timestamp": "2025-09-16T10:55:37.233436",
+      "user_input": "\"I am reading a book right now.\"",
+      "bot_response": "",
+      "emotions": [
+        [
+          "neutral",
+          0.9281517863273621
+        ],
+        [
+          "approval",
+          0.36188656091690063
+        ],
+        [
+          "excitement",
+          0.28637248277664185
+        ]
+      ],
+      "distress": [
+        [
+          "Normal",
+          0.9182848334312439
+        ]
+      ],
+      "sender": "user"
+    },
+    {
+      "timestamp": "2025-09-16T10:56:06.454248",
+      "user_input": "\"I have a presentation tomorrow and I’m so nervous.\"",
+      "bot_response": "",
+      "emotions": [
+        [
+          "nervousness",
+          0.6886352300643921
+        ],
+        [
+          "fear",
+          0.5844287872314453
+        ]
+      ],
+      "distress": [
+        [
+          "Anxiety",
+          0.5740989446640015
+        ]
+      ],
+      "sender": "user"
+    },
+    {
+      "timestamp": "2025-09-16T10:56:18.093633",
+      "user_input": "\"I can’t stop worrying about what might happen.\"",
+      "bot_response": "",
+      "emotions": [
+        [
+          "fear",
+          0.8869730830192566
+        ],
+        [
+          "nervousness",
+          0.8549954295158386
+        ],
+        [
+          "disappointment",
+          0.3745359778404236
+        ]
+      ],
+      "distress": [
+        [
+          "Anxiety",
+          0.5798220634460449
+        ]
+      ],
+      "sender": "user"
+    },
+    {
+      "timestamp": "2025-09-16T10:56:33.947710",
+      "user_input": "\"My heart is racing and I feel on edge all the time.\"",
+      "bot_response": "",
+      "emotions": [
+        [
+          "nervousness",
+          0.6367738246917725
+        ],
+        [
+          "neutral",
+          0.5230175256729126
+        ],
+        [
+          "fear",
+          0.5196651816368103
+        ]
+      ],
+      "distress": [
+        [
+          "Anxiety",
+          0.31995922327041626
+        ]
+      ],
+      "sender": "user"
+    },
+    {
+      "timestamp": "2025-09-16T10:56:50.505198",
+      "user_input": "\"I can’t believe they canceled my favorite show!\"",
+      "bot_response": "",
+      "emotions": [
+        [
+          "surprise",
+          0.9666505455970764
+        ],
+        [
+          "disappointment",
+          0.44213783740997314
+        ],
+        [
+          "disapproval",
+          0.4043504595756531
+        ],
+        [
+          "excitement",
+          0.35481569170951843
+        ]
+      ],
+      "distress": [
+        [
+          "Normal",
+          0.9154595732688904
+        ]
+      ],
+      "sender": "user"
+    },
+    {
+      "timestamp": "2025-09-16T10:57:08.629872",
+      "user_input": "\"Why does everything have to go wrong today?!\"",
+      "bot_response": "",
+      "emotions": [
+        [
+          "curiosity",
+          0.8416714072227478
+        ],
+        [
+          "confusion",
+          0.6379289627075195
+        ],
+        [
+          "neutral",
+          0.442831426858902
+        ],
+        [
+          "annoyance",
+          0.3337796628475189
+        ],
+        [
+          "disappointment",
+          0.24382942914962769
+        ]
+      ],
+      "distress": [
+        [
+          "Normal",
+          0.8132485151290894
+        ]
+      ],
+      "sender": "user"
+    },
+    {
+      "timestamp": "2025-09-16T10:57:23.581532",
+      "user_input": "\"I’m so mad at my friend for lying to me.\"",
+      "bot_response": "",
+      "emotions": [
+        [
+          "anger",
+          0.9235208034515381
+        ],
+        [
+          "annoyance",
+          0.6545692086219788
+        ],
+        [
+          "disappointment",
+          0.3710581660270691
+        ]
+      ],
+      "distress": [
+        [
+          "Normal",
+          0.9182872176170349
+        ]
+      ],
+      "sender": "user"
+    },
+    {
+      "timestamp": "2025-09-16T10:57:37.664719",
+      "user_input": "\"I feel so lonely and no one seems to care.\"",
+      "bot_response": "",
+      "emotions": [
+        [
+          "sadness",
+          0.9852015376091003
+        ],
+        [
+          "disappointment",
+          0.5837377905845642
+        ]
+      ],
+      "distress": [
+        [
+          "Depression",
+          0.5399077534675598
+        ]
+      ],
+      "sender": "user"
+    },
+    {
+      "timestamp": "2025-09-16T10:57:49.777543",
+      "user_input": "\"I don’t think I can handle this anymore.\"",
+      "bot_response": "",
+      "emotions": [
+        [
+          "disapproval",
+          0.8147872686386108
+        ],
+        [
+          "sadness",
+          0.5720887184143066
+        ],
+        [
+          "disappointment",
+          0.45191654562950134
+        ]
+      ],
+      "distress": [
+        [
+          "Suicidal",
+          0.5234774351119995
+        ]
+      ],
+      "sender": "user"
+    }
+  ]
+}

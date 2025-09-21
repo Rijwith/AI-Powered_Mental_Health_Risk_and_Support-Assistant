@@ -1,0 +1,307 @@
+{
+  "session_id": 4,
+  "start_time": "2025-09-17T09:04:50.262539",
+  "end_time": "2025-09-17T09:07:44.439507",
+  "message_count": 11,
+  "emotions_count": {
+    "anger": 1,
+    "disgust": 1,
+    "admiration": 1,
+    "excitement": 3,
+    "disappointment": 4,
+    "fear": 1,
+    "disapproval": 3,
+    "curiosity": 1,
+    "joy": 3,
+    "confusion": 1,
+    "surprise": 1,
+    "realization": 1,
+    "love": 1,
+    "nervousness": 1,
+    "neutral": 3,
+    "approval": 1,
+    "annoyance": 2,
+    "sadness": 1
+  },
+  "distress_count": {
+    "Anxiety": 1,
+    "Normal": 8,
+    "Depression": 2
+  },
+  "chat_log": [
+    {
+      "timestamp": "2025-09-17T09:04:50.262539",
+      "user_input": "hi",
+      "bot_response": "",
+      "emotions": [
+        [
+          "neutral",
+          0.9388443231582642
+        ]
+      ],
+      "distress": [
+        [
+          "Normal",
+          0.9141526222229004
+        ]
+      ],
+      "sender": "user"
+    },
+    {
+      "timestamp": "2025-09-17T09:05:19.905037",
+      "user_input": "\"I’m so glad I finally met my best friend today!\"",
+      "bot_response": "",
+      "emotions": [
+        [
+          "joy",
+          0.9714090824127197
+        ],
+        [
+          "excitement",
+          0.5608581304550171
+        ],
+        [
+          "admiration",
+          0.37185952067375183
+        ]
+      ],
+      "distress": [
+        [
+          "Normal",
+          0.9113007187843323
+        ]
+      ],
+      "sender": "user"
+    },
+    {
+      "timestamp": "2025-09-17T09:05:32.635445",
+      "user_input": "\"I feel empty and just want to cry.\"",
+      "bot_response": "",
+      "emotions": [
+        [
+          "sadness",
+          0.9934733510017395
+        ],
+        [
+          "disappointment",
+          0.35018473863601685
+        ]
+      ],
+      "distress": [
+        [
+          "Depression",
+          0.6384421586990356
+        ]
+      ],
+      "sender": "user"
+    },
+    {
+      "timestamp": "2025-09-17T09:05:46.757014",
+      "user_input": "\"This is so unfair, I can’t stand it anymore!\"",
+      "bot_response": "",
+      "emotions": [
+        [
+          "anger",
+          0.7790115475654602
+        ],
+        [
+          "disapproval",
+          0.7351595163345337
+        ],
+        [
+          "annoyance",
+          0.6250901818275452
+        ],
+        [
+          "disappointment",
+          0.4891332685947418
+        ],
+        [
+          "disgust",
+          0.303771436214447
+        ]
+      ],
+      "distress": [
+        [
+          "Depression",
+          0.45925450325012207
+        ]
+      ],
+      "sender": "user"
+    },
+    {
+      "timestamp": "2025-09-17T09:06:08.733175",
+      "user_input": "\"I’m really scared about the future.\"",
+      "bot_response": "",
+      "emotions": [
+        [
+          "fear",
+          0.9887455105781555
+        ],
+        [
+          "nervousness",
+          0.2574032247066498
+        ]
+      ],
+      "distress": [
+        [
+          "Anxiety",
+          0.3612351417541504
+        ]
+      ],
+      "sender": "user"
+    },
+    {
+      "timestamp": "2025-09-17T09:06:24.498934",
+      "user_input": "\"Wow, I wasn’t expecting that gift at all!\"",
+      "bot_response": "",
+      "emotions": [
+        [
+          "surprise",
+          0.97786545753479
+        ],
+        [
+          "excitement",
+          0.48443225026130676
+        ],
+        [
+          "realization",
+          0.36412379145622253
+        ]
+      ],
+      "distress": [
+        [
+          "Normal",
+          0.9246511459350586
+        ]
+      ],
+      "sender": "user"
+    },
+    {
+      "timestamp": "2025-09-17T09:06:36.668720",
+      "user_input": "\"I love spending time with my family.\"",
+      "bot_response": "",
+      "emotions": [
+        [
+          "love",
+          0.9844669103622437
+        ],
+        [
+          "joy",
+          0.42644771933555603
+        ]
+      ],
+      "distress": [
+        [
+          "Normal",
+          0.926558256149292
+        ]
+      ],
+      "sender": "user"
+    },
+    {
+      "timestamp": "2025-09-17T09:06:51.179155",
+      "user_input": "\"I can’t wait to go on vacation next week!\"",
+      "bot_response": "",
+      "emotions": [
+        [
+          "excitement",
+          0.956108570098877
+        ],
+        [
+          "curiosity",
+          0.4540489912033081
+        ]
+      ],
+      "distress": [
+        [
+          "Normal",
+          0.920036256313324
+        ]
+      ],
+      "sender": "user"
+    },
+    {
+      "timestamp": "2025-09-17T09:07:09.405378",
+      "user_input": "\"Nothing feels interesting right now.\"",
+      "bot_response": "",
+      "emotions": [
+        [
+          "neutral",
+          0.6602148413658142
+        ],
+        [
+          "disapproval",
+          0.539093554019928
+        ],
+        [
+          "disappointment",
+          0.37265434861183167
+        ]
+      ],
+      "distress": [
+        [
+          "Normal",
+          0.8763338923454285
+        ]
+      ],
+      "sender": "user"
+    },
+    {
+      "timestamp": "2025-09-17T09:07:30.205051",
+      "user_input": "\"I don’t understand why this keeps happening.\"",
+      "bot_response": "",
+      "emotions": [
+        [
+          "confusion",
+          0.9687660336494446
+        ],
+        [
+          "annoyance",
+          0.2763901948928833
+        ],
+        [
+          "disappointment",
+          0.26130104064941406
+        ],
+        [
+          "disapproval",
+          0.25641652941703796
+        ]
+      ],
+      "distress": [
+        [
+          "Normal",
+          0.7173131704330444
+        ]
+      ],
+      "sender": "user"
+    },
+    {
+      "timestamp": "2025-09-17T09:07:44.439507",
+      "user_input": "\"I’m just sitting outside enjoying the fresh air.\"",
+      "bot_response": "",
+      "emotions": [
+        [
+          "joy",
+          0.9788920879364014
+        ],
+        [
+          "neutral",
+          0.4176435172557831
+        ],
+        [
+          "approval",
+          0.2217693328857422
+        ]
+      ],
+      "distress": [
+        [
+          "Normal",
+          0.9067068696022034
+        ]
+      ],
+      "sender": "user"
+    }
+  ]
+}

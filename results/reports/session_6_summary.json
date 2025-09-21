@@ -1,0 +1,363 @@
+{
+  "session_id": 6,
+  "start_time": "2025-09-17T16:08:40.934015",
+  "end_time": null,
+  "message_count": 20,
+  "emotions_count": {
+    "admiration": 1,
+    "excitement": 1,
+    "fear": 4,
+    "curiosity": 1,
+    "joy": 2,
+    "gratitude": 1,
+    "neutral": 10,
+    "caring": 1
+  },
+  "distress_count": {
+    "Anxiety": 4,
+    "Normal": 11,
+    "Depression": 1
+  },
+  "chat_log": [
+    {
+      "timestamp": "2025-09-17T16:08:40.934015",
+      "user_input": "hello",
+      "bot_response": "",
+      "emotions": [
+        [
+          "neutral",
+          0.9615991115570068
+        ]
+      ],
+      "distress": [
+        [
+          "Normal",
+          0.8664751052856445
+        ]
+      ],
+      "sender": "user"
+    },
+    {
+      "timestamp": "2025-09-17T16:09:59.940978",
+      "user_input": "hello",
+      "bot_response": "",
+      "emotions": [
+        [
+          "neutral",
+          0.9615991115570068
+        ]
+      ],
+      "distress": [
+        [
+          "Normal",
+          0.8664751052856445
+        ]
+      ],
+      "sender": "user"
+    },
+    {
+      "timestamp": "2025-09-17T16:11:20.265719",
+      "user_input": "hello",
+      "bot_response": "",
+      "emotions": [
+        [
+          "neutral",
+          0.9615991115570068
+        ]
+      ],
+      "distress": [
+        [
+          "Normal",
+          0.8664751052856445
+        ]
+      ],
+      "sender": "user"
+    },
+    {
+      "timestamp": "2025-09-17T16:11:38.141866",
+      "user_input": "iam good to see you",
+      "bot_response": "",
+      "emotions": [
+        [
+          "joy",
+          0.8125054836273193
+        ],
+        [
+          "admiration",
+          0.6300963759422302
+        ],
+        [
+          "gratitude",
+          0.42190811038017273
+        ],
+        [
+          "caring",
+          0.3568449914455414
+        ],
+        [
+          "excitement",
+          0.2547357380390167
+        ]
+      ],
+      "distress": [
+        [
+          "Normal",
+          0.9322733879089355
+        ]
+      ],
+      "sender": "user"
+    },
+    {
+      "timestamp": "2025-09-17T16:12:05.644965",
+      "user_input": "bye",
+      "bot_response": "",
+      "emotions": [
+        [
+          "neutral",
+          0.9131028056144714
+        ]
+      ],
+      "distress": [
+        [
+          "Normal",
+          0.7455086708068848
+        ]
+      ],
+      "sender": "user"
+    },
+    {
+      "timestamp": "2025-09-17T16:14:48.908560",
+      "user_input": "hi",
+      "bot_response": "",
+      "emotions": [
+        [
+          "neutral",
+          0.9388443231582642
+        ]
+      ],
+      "distress": [
+        [
+          "Normal",
+          0.9141526222229004
+        ]
+      ],
+      "sender": "user"
+    },
+    {
+      "timestamp": "2025-09-17T16:15:10.232134",
+      "user_input": "i am feeling nervous today ",
+      "bot_response": "",
+      "emotions": [
+        [
+          "fear",
+          0.9732497334480286
+        ]
+      ],
+      "distress": [
+        [
+          "Anxiety",
+          0.8807194828987122
+        ]
+      ],
+      "sender": "user"
+    },
+    {
+      "timestamp": "2025-09-17T16:15:50.626582",
+      "user_input": "i am very nervous about tomorrows exam",
+      "bot_response": "",
+      "emotions": [
+        [
+          "fear",
+          0.9767022132873535
+        ]
+      ],
+      "distress": [
+        [
+          "Anxiety",
+          0.8285872936248779
+        ]
+      ],
+      "sender": "user"
+    },
+    {
+      "timestamp": "2025-09-17T16:32:33.342815",
+      "user_input": "hello",
+      "bot_response": "",
+      "emotions": [
+        [
+          "neutral",
+          0.9615991115570068
+        ]
+      ],
+      "distress": [
+        [
+          "Normal",
+          0.8664751052856445
+        ]
+      ],
+      "sender": "user"
+    },
+    {
+      "timestamp": "2025-09-17T16:32:45.838520",
+      "user_input": "how are you?",
+      "bot_response": "",
+      "emotions": [
+        [
+          "curiosity",
+          0.8954654932022095
+        ],
+        [
+          "neutral",
+          0.6731707453727722
+        ]
+      ],
+      "distress": [
+        [
+          "Normal",
+          0.9284160733222961
+        ]
+      ],
+      "sender": "user"
+    },
+    {
+      "timestamp": "2025-09-17T16:33:22.930575",
+      "user_input": "i am feeling very nervous for todays report submition",
+      "bot_response": "",
+      "emotions": [
+        [
+          "fear",
+          0.9730063676834106
+        ]
+      ],
+      "distress": [
+        [
+          "Anxiety",
+          0.8873283863067627
+        ]
+      ],
+      "sender": "user"
+    },
+    {
+      "timestamp": "2025-09-17T16:33:49.092380",
+      "user_input": "bye",
+      "bot_response": "",
+      "emotions": [
+        [
+          "neutral",
+          0.9131028056144714
+        ]
+      ],
+      "distress": [
+        [
+          "Normal",
+          0.7455086708068848
+        ]
+      ],
+      "sender": "user"
+    },
+    {
+      "timestamp": "2025-09-17T16:47:25.288275",
+      "user_input": "hi",
+      "bot_response": "",
+      "emotions": [
+        [
+          "neutral",
+          0.9388443231582642
+        ]
+      ],
+      "distress": [
+        [
+          "Normal",
+          0.9141526222229004
+        ]
+      ],
+      "sender": "user"
+    },
+    {
+      "timestamp": "2025-09-17T16:47:41.566967",
+      "user_input": "i am very happy today",
+      "bot_response": "",
+      "emotions": [
+        [
+          "joy",
+          0.9916679859161377
+        ]
+      ],
+      "distress": [
+        [
+          "Normal",
+          0.8778542876243591
+        ]
+      ],
+      "sender": "user"
+    },
+    {
+      "timestamp": "2025-09-17T16:48:15.102961",
+      "user_input": "i am feeling nervous ",
+      "bot_response": "",
+      "emotions": [
+        [
+          "fear",
+          0.9741689562797546
+        ]
+      ],
+      "distress": [
+        [
+          "Anxiety",
+          0.8915968537330627
+        ]
+      ],
+      "sender": "user"
+    },
+    {
+      "timestamp": "2025-09-17T16:50:13.935486",
+      "user_input": "exit",
+      "bot_response": "",
+      "emotions": [
+        [
+          "neutral",
+          0.9538442492485046
+        ]
+      ],
+      "distress": [
+        [
+          "Depression",
+          0.44447827339172363
+        ]
+      ],
+      "sender": "user"
+    },
+    {
+      "timestamp": null,
+      "user_input": NaN,
+      "bot_response": "",
+      "emotions": [],
+      "distress": [],
+      "sender": "user"
+    },
+    {
+      "timestamp": null,
+      "user_input": NaN,
+      "bot_response": "",
+      "emotions": [],
+      "distress": [],
+      "sender": "user"
+    },
+    {
+      "timestamp": null,
+      "user_input": NaN,
+      "bot_response": "",
+      "emotions": [],
+      "distress": [],
+      "sender": "user"
+    },
+    {
+      "timestamp": null,
+      "user_input": NaN,
+      "bot_response": "",
+      "emotions": [],
+      "distress": [],
+      "sender": "user"
+    }
+  ]
+}
